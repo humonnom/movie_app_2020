@@ -2,4 +2,4 @@
 
 # React JS Fundamentals Course (2020)
 
-This is my seconds try.
+This is my second try.
